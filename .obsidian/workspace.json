@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "78b06ab430dc654d",
+    "type": "split",
+    "children": [
+      {
+        "id": "77e9454834b67534",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c527b9ee1e9e90fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Videojuegos/Unity/Fragments/JSON Serialization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e89b9f24ce1a2b0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b5acb1cbc1bfcf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "620ebcc1999d3ec4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e30431a6f37fa83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a10fd3812b25154e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 584.5
+  },
+  "right": {
+    "id": "9116455094e21889",
+    "type": "split",
+    "children": [
+      {
+        "id": "b03f867ef8ca06b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "536e18c228ba260a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Videojuegos/Unity/Fragments/JSON Serialization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "326991d684eb6473",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Videojuegos/Unity/Fragments/JSON Serialization.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d9bf435b014e52f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "498d715786b2bd89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Videojuegos/Unity/Fragments/JSON Serialization.md"
+              }
+            }
+          },
+          {
+            "id": "442b304418fc1b2d",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-map-view:Open map view": false
+    }
+  },
+  "active": "c527b9ee1e9e90fa",
+  "lastOpenFiles": [
+    "Videojuegos/Unity/Fragments/Application.dataPath.md",
+    "TODO Notes.md",
+    "TODO Applicaiton.PersistentDataPath.md",
+    "Videojuegos/Unity/Data persistence.md",
+    "Videojuegos/Unity/Fragments/Application.persitentDataPath.md",
+    "Parapente/Preguntas examen piloto/Fragments/Examen Piloto - Aerodinámica - 13.md",
+    "Parapente/Preguntas examen piloto/Fragments/Examen Piloto - Aerodinámica - 12.md",
+    "Parapente/Preguntas examen piloto/Fragments/Examen Piloto - Aerodinámica - 11.md",
+    "Parapente/Preguntas examen piloto/Fragments/Examen Piloto - Aerodinámica - 10.md",
+    "Parapente/Preguntas examen piloto/Fragments/Examen Piloto - Aerodinámica - 9.md",
+    "Parapente/Preguntas examen piloto/Fragments/Examen Piloto - Aerodinámica - 8.md",
+    "Parapente/Preguntas examen piloto/Fragments/Examen Piloto - Aerodinámica - 7.md",
+    "Parapente/Preguntas examen piloto/Fragments/Examen Piloto - Aerodinámica - 6.md",
+    "Parapente/Preguntas examen piloto/Fragments/Examen Piloto - Aerodinámica - 5.md",
+    "Parapente/Preguntas examen piloto/Fragments/Examen Piloto - Aerodinámica - 4.md",
+    "Parapente/Preguntas examen piloto/Fragments/Examen Piloto - Aerodinámica - 3.md",
+    "Parapente/Preguntas examen piloto/Fragments/Examen Piloto - Aerodinámica - 2.md",
+    "Parapente/Preguntas examen piloto/Fragments/Examen Piloto - Aerodinámica - 1.md",
+    "Videojuegos/Unity/Fragments/TODO Shader Introduction.md",
+    "Videojuegos/Unity/Fragments/TODO Input System.md",
+    "Videojuegos/Unity/Modular deploy.md",
+    "Videojuegos/Unity/Fragments/TODO Setup URP.md",
+    "Videojuegos/Unity/Fragments/TODO Player Prefs.md",
+    "Videojuegos/Unity/Fragments/TODO Legacy Input System.md",
+    "Videojuegos/Unity/Fragments/JSON Serialization.md",
+    "Videojuegos/Unity/Fragments/TODO Graphic Settings URP.md",
+    "Edicion de video/ffmpeg/Fragments",
+    "Edicion de video/ffmpeg",
+    "Edicion de video",
+    "Videojuegos/Unity/Fragments/C# code snippets",
+    "Videojuegos/Unity/Fragments/Shader code snippets",
+    "Untitled.canvas",
+    "Videojuegos/Unity/Fragments",
+    "Untitled 2.canvas",
+    "Parapente/Iniciacion a parapente/Fragments/7. Aerodinamica",
+    "Untitled 1.canvas",
+    "Videojuegos/Asset Project/Traffic signs Asset/Planning",
+    "Videojuegos/Asset Project/Traffic signs Asset/TimeLog",
+    "Videojuegos/Asset Project/Traffic signs Asset/Accounting"
+  ]
+}

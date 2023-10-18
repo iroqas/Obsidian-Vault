@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#examenParapente  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#teoriaParapente  ",
+      "color": {
+        "a": 1,
+        "rgb": 7921746
+      }
+    },
+    {
+      "query": "tag:#unity  ",
+      "color": {
+        "a": 1,
+        "rgb": 46079
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 0.533854166666667,
+  "lineSizeMultiplier": 1.22291666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.40625,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 192,
+  "scale": 0.19188914319103803,
+  "close": false
+}
